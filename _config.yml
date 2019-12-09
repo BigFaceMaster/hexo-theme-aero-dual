@@ -3,9 +3,9 @@ menu:
   Home: /
   Archives: /archives
   # change github and email values to your own addresses
-  Github: https://github.com/leejay1992
-  Email: mailto:leejaymover@gmail.com
-  About: /about/index.html
+  Github: https://github.com/BigFaceMaster
+  Email: mailto:bigfacemaster@gmail.com
+#  About: /about/index.html
 rss: /atom.xml
 
 # Set to false to disable banner
@@ -23,8 +23,8 @@ use_header_cover: true
 # index_cover: /images/your-custom-banner.jpg
 # or
 # Specify an online resource like so:
-# index_cover: http://somewhere.com/path/to/banner.jpg
-index_cover: /img/default-banner-dark.jpg
+# index_cover: http://somewhere.com/path/to/banner.jpgs
+index_cover: /img/stars.jpg
 
 widgets:
 - category
@@ -36,8 +36,8 @@ archive_type: 'monthly'
 show_count: false
 
 # favicon
-favicon: /favicon.png
+favicon: 🤡
 
 # Google Analytics Tracking ID
-google_analytics:
+google_analytics: UA-154123333-1
 
